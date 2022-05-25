@@ -1,0 +1,12 @@
+2022-06-29 22:40:47,169 INFO [restartedMain] cn.cqut.lgqs.Application [StartupInfoLogger.java : 50] Starting Application on CuriT with PID 17100 (D:\ATest\LGQS\LGQS-all\target\classes started by 涂睿星 in D:\ATest\LGQS)
+2022-06-29 22:40:47,173 DEBUG [restartedMain] cn.cqut.lgqs.Application [StartupInfoLogger.java : 53] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-06-29 22:40:47,173 INFO [restartedMain] cn.cqut.lgqs.Application [SpringApplication.java : 679] The following profiles are active: db,core,admin,wx
+2022-06-29 22:40:54,978 INFO [scheduling-1] cn.cqut.lgqs.admin.job.CouponJob [CouponJob.java : 36] 系统开启任务检查优惠券是否已经过期
+2022-06-29 22:40:55,010 INFO [scheduling-1] cn.cqut.lgqs.admin.job.CouponJob [CouponJob.java : 50] 系统结束任务检查优惠券是否已经过期
+2022-06-29 22:40:55,016 INFO [restartedMain] cn.cqut.lgqs.Application [StartupInfoLogger.java : 59] Started Application in 8.767 seconds (JVM running for 10.461)
+2022-06-29 22:43:59,977 INFO [restartedMain] cn.cqut.lgqs.Application [StartupInfoLogger.java : 50] Starting Application on CuriT with PID 15936 (D:\ATest\LGQS\LGQS-all\target\classes started by 涂睿星 in D:\ATest\LGQS)
+2022-06-29 22:43:59,980 DEBUG [restartedMain] cn.cqut.lgqs.Application [StartupInfoLogger.java : 53] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-06-29 22:43:59,980 INFO [restartedMain] cn.cqut.lgqs.Application [SpringApplication.java : 679] The following profiles are active: db,core,admin,wx
+2022-06-29 22:44:07,767 INFO [scheduling-1] cn.cqut.lgqs.admin.job.CouponJob [CouponJob.java : 36] 系统开启任务检查优惠券是否已经过期
+2022-06-29 22:44:07,797 INFO [scheduling-1] cn.cqut.lgqs.admin.job.CouponJob [CouponJob.java : 50] 系统结束任务检查优惠券是否已经过期
+2022-06-29 22:44:07,804 INFO [restartedMain] cn.cqut.lgqs.Application [StartupInfoLogger.java : 59] Started Application in 8.761 seconds (JVM running for 10.507)
