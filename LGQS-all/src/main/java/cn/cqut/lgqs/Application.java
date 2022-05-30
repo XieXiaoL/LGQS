@@ -16,6 +16,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class Application {
 
     public static void main(String[] args) {
+        System.out.println("5.30 登录服务");
         SpringApplication.run(Application.class, args);
     }
 
