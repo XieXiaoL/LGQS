@@ -20,6 +20,7 @@ public class Application {
         System.out.println("5.30 登录服务");
         System.out.println("6.5  管理后台统计功能 ");
         System.out.println("6.5  微信前台搜索功能 ");
+        System.out.println("6.10  管理后台用户管理功能");
         SpringApplication.run(Application.class, args);
     }
 
