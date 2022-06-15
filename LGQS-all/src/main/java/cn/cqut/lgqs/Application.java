@@ -23,6 +23,7 @@ public class Application {
         System.out.println("6.10  管理后台用户管理功能");
         System.out.println("6.10  微信前台查看菜品功能");
         System.out.println("6.15  管理后台类目管理功能");
+        System.out.println("6.20  管理后台菜品管理功能");
         SpringApplication.run(Application.class, args);
     }
 
