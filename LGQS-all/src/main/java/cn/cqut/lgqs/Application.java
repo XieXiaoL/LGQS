@@ -25,6 +25,8 @@ public class Application {
         System.out.println("6.15  微信前台下单支付功能");
         System.out.println("6.15  管理后台类目管理功能");
         System.out.println("6.20  管理后台菜品管理功能");
+        System.out.println("6.20  微信前台订单操作功能");
+        System.out.println("6.25  管理后台订单管理功能");
         SpringApplication.run(Application.class, args);
     }
 
