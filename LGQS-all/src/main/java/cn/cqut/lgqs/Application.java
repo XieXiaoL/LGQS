@@ -30,6 +30,7 @@ public class Application {
         System.out.println("6.20  微信前台反馈功能");
         System.out.println("6.30  管理后台轮播图管理功能");
         System.out.println("6.30  微信前台修改个人信息功能");
+        System.out.println("功能基本开发完毕");
         SpringApplication.run(Application.class, args);
     }
 
